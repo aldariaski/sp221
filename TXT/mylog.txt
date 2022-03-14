@@ -4,3 +4,4 @@ ZCZC W01 30 L05 Quiz
 ZCZC W01 200 L09 Weekly Assignments
 ZCZC W02 1000 L09 Weekly Assignments
 ZCZC W03 120 L09 Weekly Assignments
+ZCZC W04 200 L09 Weekly Assignments
